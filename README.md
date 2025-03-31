@@ -1,0 +1,1 @@
+# Unlocking the Self-Refining Capability of Small Models: the Case of Handwritten Mathematical Expression Recognition
